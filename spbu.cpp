@@ -1,8 +1,5 @@
 /*
 {MEMBUAT SPBU.cpp
-NAMA    = Daniel Achmad Farizki
-NIM = 23422060
-Kelas = 22A (PAGI)
 TANGGAL = Senin, 17 Oktober 2022}
 */
 
