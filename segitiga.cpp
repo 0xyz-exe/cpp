@@ -5,9 +5,6 @@ using namespace std;
  
 int main()
 {
-  cout << "##  NAMA = Daniel Achmad Farizki" << endl;
-  cout << "##  NIM = 23422060   " << endl;
-  cout << "##  Kelas = 22A (PAGI)" << endl;
   cout << "##  Program C++ Menghitung Luas Segitiga Siku-Siku  ##" << endl;
   cout << "============================================" << endl;
   cout << endl;
